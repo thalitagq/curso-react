@@ -1,0 +1,1 @@
+{"ast":null,"code":"function MeetupDetails(params) {}","map":{"version":3,"sources":["/home/thalita/curso-react/projeto-14/pages/[meetupId].js"],"names":["MeetupDetails","params"],"mappings":"AAAA,SAASA,aAAT,CAAuBC,MAAvB,EAA+B,CAE9B","sourcesContent":["function MeetupDetails(params) {\n  \n}"]},"metadata":{},"sourceType":"script"}
